@@ -6,4 +6,3 @@ Angular CLI version 9.1.4.
 step1　初回作成時の作成<br>
 　　　　ng newした程度です
 
->>>>>>> master
