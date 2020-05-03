@@ -1,10 +1,9 @@
-# base_docker
+# Front
 
-## 概要
-フロントサイドは、Angularを用意（予定）
-サーバサイドは、PythonでDjangoをフレームワークで採用予定
-DBはmysql
-DBツールとしてphpmyadminも採用
-  
-## ブランチの意味
-step1 最初のDocker環境の確認のためmysqlとphpmyadminのみを用意
+Angular CLI version 9.1.4.
+
+# ブランチの意味
+step1　初回作成時の作成<br>
+　　　　ng newした程度です
+
+>>>>>>> master
